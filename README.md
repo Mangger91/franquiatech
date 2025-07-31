@@ -26,3 +26,5 @@ docker build -t automacao-franquia .
 docker run --rm automacao-franquia
 
 Projeto de automação com PyAutoGUI e Google Drive.
+
+Testando integração de testes com GitHub Actions.
